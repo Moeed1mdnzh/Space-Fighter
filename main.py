@@ -23,8 +23,6 @@ def main():
 		g.main()
 		main()
 	if m == "start":
-		song = pygame.mixer.music.load("game_song.mp3")
-		pygame.mixer.music.play(-1)
 		if difficulty == "Easy":
 			speed = [3,10,1]
 		if difficulty == "Normal":
