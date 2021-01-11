@@ -1,0 +1,10 @@
+Normal Enemy.these enemies task is just to escape-
+-and nothing else.they are slower in easy mode-
+-and faster in hard mode.
+Super Enemy.Their task is to be sneaky and use-
+-their entire speed.they're slower in easy mode and-
+-faster in hard mode.Note : You'll lose 2 lives if-
+-they escape in hard mode.they usually come from the edges of the screen.
+Shooting Enemy.They usually come from the middle of the screen.
+They shoot laser bullets unless you are in easy mode and-
+-they're much stronger in hard mode.

@@ -1,0 +1,6 @@
+This game containts different keys to play.press W to launch-
+-,A and D for the X axis,S for boosting,E for changing the-
+-bullet Type.You can shoot bullets by Left-Clicking and-
+-for the laser bullets hold the space key.tips : W+S for-
+-launching with boost,A+S or D+S for going to left-right-
+-and boosting at same time.
